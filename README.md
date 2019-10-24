@@ -8,7 +8,7 @@ In this repository you will find the code of the "Coding 2: Web Scraping with R"
 ```R
 install.packages(c("rvest", "data.table", "jsonlite"))
 ```
-* [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb){:target="_blank"} extension for browser. (Chrome is the preferred browser)
+* [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb) extension for browser. (Chrome is the preferred browser)
 
 
 ## Topics:
